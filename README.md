@@ -4,7 +4,7 @@
 
 ## License
 
-GAEC Hedouin est sous licence [MIT](https://www.gethalfmoon.com/license/).
+GAEC Hedouin est sous licence [MIT](https://www.gaechedouin.ga/license).
 
 ## Copyright
 
